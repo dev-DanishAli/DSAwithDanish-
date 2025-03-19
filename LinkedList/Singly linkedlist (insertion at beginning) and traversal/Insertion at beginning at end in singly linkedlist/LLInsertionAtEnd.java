@@ -44,7 +44,7 @@ public class LLInsertionAtEnd{
         list.insertAtEnd(55);
         list.insertAtEnd(43);
         list.insertAtEnd(23);
-
+        list.dispaly();
 
     }
 }
